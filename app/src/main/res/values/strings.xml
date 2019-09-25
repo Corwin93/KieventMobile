@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Киевент: купить билеты в Киеве</string>
+    <string name="event_image_description">Event snapshot</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_tabbed">Ближайшие события</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="button_buy">Купить билет</string>
+    <string name="label_what">Что:</string>
+    <string name="button_map">Где это?</string>
+    <string name="button_map_description">Где это?</string>
+    <string name="loading_label">Загрузка</string>
+    <string name="loading_failed_message">Сервер не отвечает. Проверьте соединение\nНажмите Повторить или попробуйте позже</string>
+    <string name="close_button_description">Close Button</string>
+    <string name="refresh_button_description">Refresh Button</string>
+    <string name="connection_error">Пэзда</string>
+    <string name="failure_exit_button_label">Выйти</string>
+    <string name="failure_server_message">Сервер недоступен. Проверьте своё подключение или попробуйте позже</string>
+    <string name="failure_network_message">Отсутствует активное подключение к сети</string>
+    <string name="action_about">О программе</string>
+    <string name="about_dialog_message">Разработчик:\nАндрей Григорьев\nhttps://github.com/Corwin93</string>
+    <string name="about_dialog_exit_button_label">Назад</string>
+    <string name="event_image_content_descr">Event image</string>
+    <string name="screen_background">Screen background</string>
+</resources>
